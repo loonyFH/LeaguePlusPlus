@@ -1,0 +1,12 @@
+﻿  PluginSDK.cpp
+  Twitch.cpp
+Twitch.cpp(64): warning C4390: ';': empty controlled statement found; is this the intent?
+Twitch.cpp(83): warning C4390: ';': empty controlled statement found; is this the intent?
+Twitch.cpp(151): warning C4390: ';': empty controlled statement found; is this the intent?
+Twitch.cpp(170): warning C4390: ';': empty controlled statement found; is this the intent?
+     Creating library C:\Users\Kyle\Documents\Visual Studio 2015\Projects\TwitchLoony\Release\TwitchLoony.lib and object C:\Users\Kyle\Documents\Visual Studio 2015\Projects\TwitchLoony\Release\TwitchLoony.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TwitchLoony.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\TwitchLoony\Release\TwitchLoony.dll
+  TwitchLoony.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\TwitchLoony\Release\TwitchLoony.pdb (Full PDB)
